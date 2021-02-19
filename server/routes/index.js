@@ -1,6 +1,7 @@
 const routes = require('express').Router()
 const Controller = require('../controllers')
 
+routes.post('/downloadxml',Controller.downloadXML)
 routes.get('/products',Controller.getProducts)
 routes.get('/products/:id',Controller.getProductById)
 

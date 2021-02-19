@@ -6,7 +6,7 @@ function Navbar () {
     <header className="w-full bg-gray-400 h-12 flex flex-row items-center">
       <ul className="flex flex-row items-center px-4">
         <li>
-          <NavLink activeClassName="underline" exact to="/" className="text-lg">resto</NavLink>
+          <NavLink activeClassName="underline" exact to="/" className="text-lg font-bold">Home</NavLink>
         </li>
       </ul>
     </header>

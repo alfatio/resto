@@ -16,6 +16,9 @@ function App() {
         <Route exact path="/">
           <Home/>
         </Route>
+        <Route path="/add">
+          <Edit/>
+        </Route>
         <Route path="/edit/:id">
           <Edit/>
         </Route>

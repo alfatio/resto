@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<squares>
+  <!-- Products -->
+  <data category="Snack" name="Beng Beng" slug="beng-beng" price="2000" img_url="//portal.panelo.co/paneloresto/uploads/20/12/07122016073215155fcdc7ab18dd9.jpg" stock="10"/>
+  <data category="Snack" name="Tahu" slug="tahu" price="2000" img_url="//portal.panelo.co/paneloresto/uploads/20/12/07122016073247255fcdd4354c14a.jpg" stock="20"/>
+  <data category="Makanan" name="nasi goreng" slug="nasi-goreng" price="12000" img_url="//portal.panelo.co/paneloresto/uploads/20/10/21102016032509585f8fab0e771b0.jpg" stock="10"/>
+  <data category="Makanan" name="Nasi Goreng Pedas" slug="nasi-goreng" price="15000" img_url="//portal.panelo.co/paneloresto/uploads/20/10/21102016032509585f8fab0e771b0.jpg" stock="1"/>
+  <data category="Makanan" name="Pop Mie" slug="pop-mie" price="6000" img_url="//portal.panelo.co/paneloresto/uploads/20/12/07122016073250025fcdd54a7e85b.jpg" stock="1"/>
+</squares>
